@@ -1,4 +1,4 @@
-# Problem 1
+# Problem 2
 
 This is my solution to Problem 2 of the Project Euler problems.
 https://projecteuler.net/problem=2
