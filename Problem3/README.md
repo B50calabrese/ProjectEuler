@@ -1,6 +1,6 @@
 # Problem 3
 
-This is my solution to Problem 2 of the Project Euler problems.
+This is my solution to Problem 3 of the Project Euler problems.
 https://projecteuler.net/problem=3
 
 ## Description
