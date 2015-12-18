@@ -1,0 +1,1 @@
+javac SmallestMultiple.java
